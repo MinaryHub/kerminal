@@ -30,6 +30,16 @@
 - 앱 안에서: **설정 → Support → Contact us**
 - 또는 [Issues](https://github.com/knoxxr/kerminal/issues)
 
+## 후원
+
+한 사람이 만들고 유지하는 앱입니다. 도움이 되셨다면
+[GitHub Sponsors](https://github.com/sponsors/knoxxr) 로 후원하실 수 있습니다 —
+앱 안에서는 **설정 → Support development**.
+
+**후원해도 앱은 완전히 같습니다.** 잠금 해제되는 기능도, 배지도, 광고 제거도 없습니다.
+그렇게 만든 이유가 있습니다 — 후원이 무언가를 주는 순간 Microsoft Store 정책상
+스토어 결제를 써야 하고, 그러면 후원이 "구매"가 됩니다.
+
 ## 개인정보처리방침
 
 [PRIVACY.md](PRIVACY.md) 를 보세요. 요약하면 — 서버 접속 정보와 자격증명은 기본적으로
