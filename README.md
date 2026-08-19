@@ -11,7 +11,7 @@
 
 ## 다운로드
 
-최신 버전: **[Releases 페이지](https://github.com/knoxxr/kerminal/releases/latest)**
+최신 버전: **[Releases 페이지](https://github.com/MinaryHub/kerminal/releases/latest)**
 
 | 플랫폼 | 받을 파일 | 설치 |
 |--------|-----------|------|
@@ -22,23 +22,13 @@
 | Android | `kerminal.apk` | 설치 시 "출처를 알 수 없는 앱" 허용 필요 |
 
 앱은 실행 중 새 버전이 나오면 알려줍니다 — 버전 매니페스트
-([`latest.json`](https://github.com/knoxxr/kerminal/releases/latest/download/latest.json))
+([`latest.json`](https://github.com/MinaryHub/kerminal/releases/latest/download/latest.json))
 하나만 HTTPS 로 받아 현재 버전과 비교합니다.
 
 ## 문의 · 버그 신고
 
 - 앱 안에서: **설정 → Support → Contact us**
-- 또는 [Issues](https://github.com/knoxxr/kerminal/issues)
-
-## 후원
-
-한 사람이 만들고 유지하는 앱입니다. 도움이 되셨다면
-[GitHub Sponsors](https://github.com/sponsors/knoxxr) 로 후원하실 수 있습니다 —
-앱 안에서는 **설정 → Support development**.
-
-**후원해도 앱은 완전히 같습니다.** 잠금 해제되는 기능도, 배지도, 광고 제거도 없습니다.
-그렇게 만든 이유가 있습니다 — 후원이 무언가를 주는 순간 Microsoft Store 정책상
-스토어 결제를 써야 하고, 그러면 후원이 "구매"가 됩니다.
+- 또는 [Issues](https://github.com/MinaryHub/kerminal/issues)
 
 ## 개인정보처리방침
 
